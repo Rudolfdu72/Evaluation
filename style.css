@@ -1,0 +1,71 @@
+header {
+  height: 30px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.logo {
+  position: relative;
+  top: -100px;
+  width: 200px;
+  height: 200px;
+}
+
+nav {
+  background: linear-gradient(to left,#325ea8 ,#328fa8 );
+  font-weight: bold;
+}
+
+footer{
+  background: linear-gradient(to left,#325ea8 , #328fa8);
+ 
+}
+/* a:hover{
+  color: red !important;
+  text-decoration: underline;
+
+} */
+
+.actu{
+  background-color: #328fa8;
+
+}
+
+.info{
+  width: 200px;
+  height: 250px;
+  background-color: #325ea8;
+}
+
+.arriere-plan{
+  height: 500px;
+  background-color: #c8d4e0;
+  
+}
+
+a{
+  text-decoration: none;
+}
+
+.lign{
+  width: 100px;
+  height: 1px solid;
+}
+
+.flottant{
+  float:left ;
+}
+
+.adhesion{
+  background-color: #c8d4e0;
+}
+
+.lineone{
+  width: 150px;
+}
+
+.line{
+  width: 1000px;
+  border-width: 4px;
+}
