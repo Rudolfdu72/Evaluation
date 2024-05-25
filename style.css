@@ -1,8 +1,12 @@
-
+html,body{
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
 Body{
   height: 100vh;
   padding-top:20px;
 }
+
 
 header{
   height: 30px;
@@ -68,5 +72,5 @@ footer{
   h3{
     font-size: 16px;
   }
-  
 }
+
